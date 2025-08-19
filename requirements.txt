@@ -1,1 +1,9 @@
 
+streamlit
+pandas
+plotly
+pdfplumber
+PyMuPDF
+numpy
+sqlalchemy
+python-dateutil
